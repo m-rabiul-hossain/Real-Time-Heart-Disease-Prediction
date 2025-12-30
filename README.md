@@ -2,9 +2,9 @@
 
 # Project Overview
 - This project aims to predict the 10-year risk of future coronary heart disease (CHD) in patients based on various health indicators.
-- The model is trained on data from the Framingham Heart Study.
 
 # Dataset Overview
+- The model is trained on data from the Framingham Heart Study.
 - The dataset contains over 3,700 patient records with 15 health-related features:
 - Demographic: Sex (Male/Female), Age.
 - Behavioral: Current smoking status and number of cigarettes per day.
